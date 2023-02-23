@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;
+    min-width: 450px;
+    border: 2px solid #205E61;
+    padding: 10px;
+
+    h3 {
+        text-transform: capitalize;
+        color: #205E61;
+
+    }
+}
